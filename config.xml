@@ -11,5 +11,5 @@
     <extra-head><![CDATA[<meta name="viewport" content="width=device-width, initial-scale=1" />
 ]]></extra-head>
     <edition-extra-head><![CDATA[<script type="text/javascript">if (typeof(exe_style)!='undefined' && exe_style.indexOf("content.css")!=-1) document.write('<scr'+'ipt type="text/javascript" src="'+exe_style.replace("content.css","_intef_js.js")+'"></scr'+'ipt>')</script>]]></edition-extra-head>
-    <extra-body><![CDATA[<script type="text/javascript" src="_intef_js.js"></script>]]></extra-body>
+    <extra-body><![CDATA[<script type="text/javascript" src="intef_js.js"></script>]]></extra-body>
 </theme>
